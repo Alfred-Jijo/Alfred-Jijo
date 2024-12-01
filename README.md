@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred-jijo&label=Profile%20views&color=0e75b6&style=flat" alt="alfred-jijo" /> </p>
 
-- 🔭 I’m currently working on [A C codebase](https://github.com/Alfred-Jijo/c-codebase.git)
+- 🔭 I’m currently working on [A custom C lib](https://github.com/Moltenna/mtlib.git), inspired by [stb](https://github.com/nothings/stb.git)
 
 - 🌱 I’m currently learning **C, Zig, Java**
 
