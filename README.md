@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred-jijo&label=Profile%20views&color=0e75b6&style=flat" alt="alfred-jijo" /> </p>
 
-- 🔭 I’m currently working on [A custom C lib](https://github.com/Moltenna/mtlib.git), inspired by [stb](https://github.com/nothings/stb.git)
+- 🔭 I’m currently working on [A HTTP Server](https://github.com/Alfred-Jijo/HTTP-Server.git), using [Winsock 2](https://learn.microsoft.com/en-us/windows/win32/winsock/getting-started-with-winsock).
 
 - 🌱 I’m currently learning **C, Zig, Java**
 
