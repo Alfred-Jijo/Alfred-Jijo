@@ -5,9 +5,9 @@
 This GitHub profile is no longer active.  
 All new projects and activity are now on Gitlab:
 
-### ➡️ [https://codeberg.org/Alfred-Jijo](https://codeberg.org/Alfred-Jijo)
+### ➡️ [https://gitlab.com/Alfred-Jijo](https://gitlab.com/Alfred-Jijo)
 <a href="https://gitlab.com/Alfred-Jijo">
-  <img src="https://img.shields.io/badge/Codeberg-Alfred--Jijo-blue?style=for-the-badge&logo=gitlab&logoColor=Orange" alt="Gitlab" />
+  <img src="https://img.shields.io/badge/Gitlab-Alfred--Jijo-blue?style=for-the-badge&logo=gitlab&logoColor=Orange" alt="Gitlab" />
 </a>
 
 </div>
