@@ -3,11 +3,11 @@
 # Alfred
 
 This GitHub profile is no longer active.  
-All new projects and activity are now on Codeberg:
+All new projects and activity are now on Gitlab:
 
 ### ➡️ [https://codeberg.org/Alfred-Jijo](https://codeberg.org/Alfred-Jijo)
-<a href="https://codeberg.org/Alfred-Jijo">
-  <img src="https://img.shields.io/badge/Codeberg-Alfred--Jijo-blue?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" />
+<a href="https://gitlab.com/Alfred-Jijo">
+  <img src="https://img.shields.io/badge/Codeberg-Alfred--Jijo-blue?style=for-the-badge&logo=gitlab&logoColor=Orange" alt="Gitlab" />
 </a>
 
 </div>
